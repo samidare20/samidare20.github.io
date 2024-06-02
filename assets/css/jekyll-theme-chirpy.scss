@@ -1,7 +1,7 @@
 ---
 ---
 
-@import 'main
+@import "../node_modules/bootstrap/scss/bootstrap";
 {%- if jekyll.environment == 'production' -%}
   .bundle
 {%- endif -%}
